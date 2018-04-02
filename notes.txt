@@ -1,0 +1,8 @@
+user: dean
+pass: adminpassword
+email: deanboatright@gmail.com
+
+
+link to home page with :
+<a href="{% url 'index' %}">Home</a>.
+
